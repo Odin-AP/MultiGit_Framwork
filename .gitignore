@@ -90,5 +90,8 @@ fastlane/test_output
 iOSInjectionProject/
 
 .DS_Store
+<<<<<<< HEAD
 IgnoreBuild/*
 IgnoreBuild2/*
+=======
+>>>>>>> main

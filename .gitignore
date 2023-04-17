@@ -90,5 +90,5 @@ fastlane/test_output
 iOSInjectionProject/
 
 .DS_Store
-IgnoreBuild/
-IgnoreBuild2/
+IgnoreBuild/*
+IgnoreBuild2/*

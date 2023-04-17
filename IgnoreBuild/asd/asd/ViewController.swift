@@ -1,6 +1,6 @@
 //
 //  ViewController.swift
-//  aaa
+//  asd
 //
 //  Created by Odin.송황호 on 2023/04/17.
 //
@@ -15,6 +15,5 @@ class ViewController: UIViewController {
     }
 
 
-    let a = 20
 }
 

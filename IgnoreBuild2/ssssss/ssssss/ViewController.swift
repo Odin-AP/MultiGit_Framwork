@@ -18,5 +18,6 @@ class ViewController: UIViewController {
     
     let b = "bbbb"
 
+    let c = "cccc"
 }
 
